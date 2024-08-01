@@ -197,6 +197,11 @@ const _nav = [
         name: 'Validation',
         to: '/forms/validation',
       },
+      {
+        component: CNavItem,
+        name: 'My DataGrid',
+        to: '/forms/datagrid',
+      },
     ],
   },
   {
